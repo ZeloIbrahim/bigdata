@@ -1,0 +1,10 @@
+# Installation de Hadoop (trop lourde, pas notre code)
+hadoop-3.4.0/
+*.tar.gz
+
+# Fichiers générés par le notebook
+mots_m*.txt
+hadoop_m*.log
+
+# Fichiers automatiques de Jupyter
+.ipynb_checkpoints/
