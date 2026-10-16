@@ -8,3 +8,6 @@ hadoop_m*.log
 
 # Fichiers automatiques de Jupyter
 .ipynb_checkpoints/
+
+# Données du TP2 (téléchargées par le notebook)
+TP2/data/
