@@ -11,3 +11,9 @@ hadoop_m*.log
 
 # Données du TP2 (téléchargées par le notebook)
 TP2/data/
+
+# Données et modèle du TP3 (trop lourds : à télécharger sur Kaggle)
+TP3/*/data/
+TP3/**/*.keras
+TP3_ID26/*/data/
+TP3_ID26/**/*.keras
